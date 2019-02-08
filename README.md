@@ -13,7 +13,7 @@
 
 # Fonts:
 - Use Meslo.
-- Get the latest version here: https://github.com/andreberg/Meslo-Font/blob/v1.2.1/dist/v1.2.1/Meslo%20LG%20v1.2.1.zip
+- Get the latest version here: https://github.com/andreberg/Meslo-Font/blob/v1.2.1/dist/v1.2.1/Meslo%20LG%20v1.2.1.zip?raw=true
 
 # Keybindings:
 - Download `./Keybindings/Rax.idekeybindings`
